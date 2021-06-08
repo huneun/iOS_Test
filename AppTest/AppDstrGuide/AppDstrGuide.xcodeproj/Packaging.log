@@ -1,0 +1,140 @@
+2021-03-29 09:17:44 +0000  Initial pipeline context: <IDEDistributionProcessingPipelineContext: 0x7f8e95fc64d0; archive(resolved)='<IDEArchive: 0x7f8e945b22f0>', distributionTask(resolved)='2', distributionDestination(resolved)='2', distributionMethod(resolved)='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f8edba04540>', team(resolved)='<IDEProvisioningDisambiguatableBasicTeam: 0x7f8e94eeffa0; teamID='EMD6YQGHKT', teamName='Heemok Park', teamType='Individual', username='dev@brstorm.co.kr', isFreeProvisioningTeam='0'>'>
+	Chain (13, self inclusive):
+	<IDEDistributionProcessingPipelineContext: 0x7f8e95fc64d0; archive = '<IDEArchive: 0x7f8e945b22f0>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f8edba04540>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7f8e94eeffa0; teamID='EMD6YQGHKT', teamName='Heemok Park', teamType='Individual', username='dev@brstorm.co.kr', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionProcessingPipelineContext: 0x7f8e95e12250; archive = '<IDEArchive: 0x7f8e945b22f0>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f8edba04540>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7f8e94eeffa0; teamID='EMD6YQGHKT', teamName='Heemok Park', teamType='Individual', username='dev@brstorm.co.kr', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7f8e973e5d50; archive = '<IDEArchive: 0x7f8e945b22f0>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f8edba04540>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7f8e94eeffa0; teamID='EMD6YQGHKT', teamName='Heemok Park', teamType='Individual', username='dev@brstorm.co.kr', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7f8e981ea290; archive = '<IDEArchive: 0x7f8e945b22f0>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f8edba04540>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7f8e94eeffa0; teamID='EMD6YQGHKT', teamName='Heemok Park', teamType='Individual', username='dev@brstorm.co.kr', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7f8e973827a0; archive = '<IDEArchive: 0x7f8e945b22f0>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f8edba04540>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7f8e94eeffa0; teamID='EMD6YQGHKT', teamName='Heemok Park', teamType='Individual', username='dev@brstorm.co.kr', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7f8e83d162c0; archive = '<IDEArchive: 0x7f8e945b22f0>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f8edba04540>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7f8e94eeffa0; teamID='EMD6YQGHKT', teamName='Heemok Park', teamType='Individual', username='dev@brstorm.co.kr', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7f8ec7148ab0; archive = '<IDEArchive: 0x7f8e945b22f0>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f8edba04540>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7f8e94eeffa0; teamID='EMD6YQGHKT', teamName='Heemok Park', teamType='Individual', username='dev@brstorm.co.kr', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7f8e97758df0; archive = '<IDEArchive: 0x7f8e945b22f0>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f8edba04540>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7f8e94eeffa0; teamID='EMD6YQGHKT', teamName='Heemok Park', teamType='Individual', username='dev@brstorm.co.kr', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7f8e9773fab0; archive = '<IDEArchive: 0x7f8e945b22f0>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f8edba04540>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7f8e94eeffa0; teamID='EMD6YQGHKT', teamName='Heemok Park', teamType='Individual', username='dev@brstorm.co.kr', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7f8e94705300; archive = '<IDEArchive: 0x7f8e945b22f0>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f8edba04540>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7f8e94eeffa0; teamID='EMD6YQGHKT', teamName='Heemok Park', teamType='Individual', username='dev@brstorm.co.kr', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7f8ec4729130; archive = '<IDEArchive: 0x7f8e945b22f0>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f8edba04540>', team='(null)'>
+	<IDEDistributionContext: 0x7f8e9813a260; archive = '<IDEArchive: 0x7f8e945b22f0>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f8edba04540>', team='(null)'>
+	<IDEDistributionContext: 0x7f8e83d222c0; archive = '<IDEArchive: 0x7f8e945b22f0>', distributionMethod='(null)', team='(null)'>
+</IDEDistributionProcessingPipelineContext: 0x7f8e95fc64d0>
+2021-03-29 09:17:44 +0000  Processing step: IDEDistributionCreateDestRootStep
+2021-03-29 09:17:44 +0000  Processing step: IDEDistributionCopyItemStep
+2021-03-29 09:17:44 +0000  Running /usr/bin/ditto '-V' '/Users/brstorm/Library/Developer/Xcode/Archives/2021-03-29/AppDstrGuide 2021-03-29 6.14 PM.xcarchive/Products/Applications/AppDstrGuide.app' '/var/folders/wn/9n3xh4jx6j7fj2yp89k_z1740000gn/T/XcodeDistPipeline.~~~Ezz132/Root/Payload/AppDstrGuide.app'
+2021-03-29 09:17:44 +0000  >>> Copying /Users/brstorm/Library/Developer/Xcode/Archives/2021-03-29/AppDstrGuide 2021-03-29 6.14 PM.xcarchive/Products/Applications/AppDstrGuide.app 
+2021-03-29 09:17:44 +0000  copying file ./_CodeSignature/CodeResources ... 
+2021-03-29 09:17:44 +0000  3895 bytes for ./_CodeSignature/CodeResources
+2021-03-29 09:17:44 +0000  copying file ./AppDstrGuide ... 
+2021-03-29 09:17:44 +0000  170160 bytes for ./AppDstrGuide
+2021-03-29 09:17:44 +0000  copying file ./Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib ... 
+2021-03-29 09:17:44 +0000  936 bytes for ./Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib
+2021-03-29 09:17:44 +0000  copying file ./Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib ... 
+2021-03-29 09:17:44 +0000  1197 bytes for ./Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib
+2021-03-29 09:17:44 +0000  copying file ./Base.lproj/Main.storyboardc/Info.plist ... 
+2021-03-29 09:17:44 +0000  258 bytes for ./Base.lproj/Main.storyboardc/Info.plist
+2021-03-29 09:17:44 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib ... 
+2021-03-29 09:17:44 +0000  1197 bytes for ./Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib
+2021-03-29 09:17:44 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib ... 
+2021-03-29 09:17:44 +0000  896 bytes for ./Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib
+copying file ./Base.lproj/LaunchScreen.storyboardc/Info.plist ... 
+2021-03-29 09:17:44 +0000  258 bytes for ./Base.lproj/LaunchScreen.storyboardc/Info.plist
+2021-03-29 09:17:44 +0000  copying file ./embedded.mobileprovision ... 
+2021-03-29 09:17:44 +0000  9868 bytes for ./embedded.mobileprovision
+2021-03-29 09:17:44 +0000  copying file ./Info.plist ... 
+2021-03-29 09:17:44 +0000  1415 bytes for ./Info.plist
+2021-03-29 09:17:44 +0000  copying file ./PkgInfo ... 
+2021-03-29 09:17:44 +0000  8 bytes for ./PkgInfo
+2021-03-29 09:17:44 +0000  /usr/bin/ditto exited with 0
+2021-03-29 09:17:44 +0000  Processing step: IDEDistributionEmbedProfileStep
+2021-03-29 09:17:44 +0000  Processing step: IDEDistributionInfoPlistStep
+2021-03-29 09:17:44 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2021-03-29 09:17:44 +0000  Processing step: IDEDistributionItemRemovalStep
+2021-03-29 09:17:44 +0000  Processing step: IDEDistributionAppThinningPlistStep
+2021-03-29 09:17:44 +0000  Skipping step: IDEDistributionAppThinningPlistStep because it said so
+2021-03-29 09:17:44 +0000  Processing step: IDEDistributionCompileBitcodeStep
+2021-03-29 09:17:44 +0000  Skipping step: IDEDistributionCompileBitcodeStep because it said so
+2021-03-29 09:17:44 +0000  Processing step: IDEDistributionCodeSlimmingStep
+2021-03-29 09:17:44 +0000  Processing step: IDEDistributionCopyBCSymbolMapsStep
+2021-03-29 09:17:44 +0000  Running /usr/bin/ditto '-V' '/Users/brstorm/Library/Developer/Xcode/Archives/2021-03-29/AppDstrGuide 2021-03-29 6.14 PM.xcarchive/BCSymbolMaps/25AE166A-CCFA-39B7-B4FC-DFBB1ACD849D.bcsymbolmap' '/var/folders/wn/9n3xh4jx6j7fj2yp89k_z1740000gn/T/XcodeDistPipeline.~~~Ezz132/Root/BCSymbolMaps/25AE166A-CCFA-39B7-B4FC-DFBB1ACD849D.bcsymbolmap'
+2021-03-29 09:17:44 +0000  >>> Copying /Users/brstorm/Library/Developer/Xcode/Archives/2021-03-29/AppDstrGuide 2021-03-29 6.14 PM.xcarchive/BCSymbolMaps/25AE166A-CCFA-39B7-B4FC-DFBB1ACD849D.bcsymbolmap 
+2021-03-29 09:17:44 +0000  copying file ./25AE166A-CCFA-39B7-B4FC-DFBB1ACD849D.bcsymbolmap ... 
+2021-03-29 09:17:44 +0000  4978 bytes for ./25AE166A-CCFA-39B7-B4FC-DFBB1ACD849D.bcsymbolmap
+2021-03-29 09:17:44 +0000  /usr/bin/ditto exited with 0
+2021-03-29 09:17:44 +0000  Processing step: IDEDistributionSymbolsStep
+2021-03-29 09:17:44 +0000  Excluding symbols for AppDstrGuide.app
+2021-03-29 09:17:44 +0000  Processing step: IDEDistributionCopyAppleProvidedContentStep
+2021-03-29 09:17:44 +0000  Processing step: IDEDistributionAppThinningStep
+2021-03-29 09:17:44 +0000  Skipping step: IDEDistributionAppThinningStep because it said so
+2021-03-29 09:17:44 +0000  Processing step: IDEDistributionArchThinningStep
+2021-03-29 09:17:44 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/wn/9n3xh4jx6j7fj2yp89k_z1740000gn/T/XcodeDistPipeline.~~~Ezz132/Root/Payload/AppDstrGuide.app/AppDstrGuide' '-verify_arch' 'arm64e'
+2021-03-29 09:17:44 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2021-03-29 09:17:44 +0000  Skipping architecture thinning for item "AppDstrGuide" because arch "arm64e" wasn't found
+2021-03-29 09:17:44 +0000  Processing step: IDEDistributionODRStep
+2021-03-29 09:17:44 +0000  Processing step: IDEDistributionStripXattrsStep
+2021-03-29 09:17:44 +0000  Running /usr/bin/xattr '-crs' '/var/folders/wn/9n3xh4jx6j7fj2yp89k_z1740000gn/T/XcodeDistPipeline.~~~Ezz132/Root/Payload/AppDstrGuide.app'
+2021-03-29 09:17:44 +0000  /usr/bin/xattr exited with 0
+2021-03-29 09:17:44 +0000  Processing step: IDEDistributionCodesignStep
+2021-03-29 09:17:44 +0000  Entitlements for <IDEDistributionItem: 0x7f8ec44193d0; bundleID='com.AppDstrGuide', path='<DVTFilePath:0x7f8e9739c090:'/Users/brstorm/Library/Developer/Xcode/Archives/2021-03-29/AppDstrGuide 2021-03-29 6.14 PM.xcarchive/Products/Applications/AppDstrGuide.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f8e97276cf0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f8e981832d0; name='Apple Development: Heemok Park (ASW3NGRCTB)', hash='D47EEAD62014CEC33574634AD9F73CBD28292B55', serialNumber='54B6AE2B24808807FA27EC55CC8F7B27', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-03-23 09:35:00 +0000''>', entitlements='{
+    "application-identifier" = "EMD6YQGHKT.com.AppDstrGuide";
+    "com.apple.developer.team-identifier" = EMD6YQGHKT;
+    "get-task-allow" = 1;
+    "keychain-access-groups" =     (
+        "EMD6YQGHKT.com.AppDstrGuide"
+    );
+}', teamID='EMD6YQGHKT', identifier='com.AppDstrGuide', executablePath='<DVTFilePath:0x7f8e95a27f50:'/Users/brstorm/Library/Developer/Xcode/Archives/2021-03-29/AppDstrGuide 2021-03-29 6.14 PM.xcarchive/Products/Applications/AppDstrGuide.app/AppDstrGuide'>', hardenedRuntime='0'>'>: {
+    "application-identifier" = "EMD6YQGHKT.com.AppDstrGuide";
+    "beta-reports-active" = 1;
+    "com.apple.developer.team-identifier" = EMD6YQGHKT;
+    "get-task-allow" = 0;
+    "keychain-access-groups" =     (
+        "EMD6YQGHKT.com.AppDstrGuide"
+    );
+}
+2021-03-29 09:17:44 +0000  Writing entitlements for <IDEDistributionItem: 0x7f8ec44193d0; bundleID='com.AppDstrGuide', path='<DVTFilePath:0x7f8e9739c090:'/Users/brstorm/Library/Developer/Xcode/Archives/2021-03-29/AppDstrGuide 2021-03-29 6.14 PM.xcarchive/Products/Applications/AppDstrGuide.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f8e97276cf0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f8e98147230; name='Apple Development: Heemok Park (ASW3NGRCTB)', hash='D47EEAD62014CEC33574634AD9F73CBD28292B55', serialNumber='54B6AE2B24808807FA27EC55CC8F7B27', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-03-23 09:35:00 +0000''>', entitlements='{
+    "application-identifier" = "EMD6YQGHKT.com.AppDstrGuide";
+    "com.apple.developer.team-identifier" = EMD6YQGHKT;
+    "get-task-allow" = 1;
+    "keychain-access-groups" =     (
+        "EMD6YQGHKT.com.AppDstrGuide"
+    );
+}', teamID='EMD6YQGHKT', identifier='com.AppDstrGuide', executablePath='<DVTFilePath:0x7f8e95a27f50:'/Users/brstorm/Library/Developer/Xcode/Archives/2021-03-29/AppDstrGuide 2021-03-29 6.14 PM.xcarchive/Products/Applications/AppDstrGuide.app/AppDstrGuide'>', hardenedRuntime='0'>'> to: /var/folders/wn/9n3xh4jx6j7fj2yp89k_z1740000gn/T/XcodeDistPipeline.~~~Ezz132/entitlements~~~EmCG3u
+2021-03-29 09:17:44 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '2D78BAA7B150D17372B83E1FD566383278866E08' '--entitlements' '/var/folders/wn/9n3xh4jx6j7fj2yp89k_z1740000gn/T/XcodeDistPipeline.~~~Ezz132/entitlements~~~EmCG3u' '--preserve-metadata=identifier,flags,runtime' '/var/folders/wn/9n3xh4jx6j7fj2yp89k_z1740000gn/T/XcodeDistPipeline.~~~Ezz132/Root/Payload/AppDstrGuide.app'
+2021-03-29 09:17:45 +0000  /var/folders/wn/9n3xh4jx6j7fj2yp89k_z1740000gn/T/XcodeDistPipeline.~~~Ezz132/Root/Payload/AppDstrGuide.app: signed app bundle with Mach-O thin (arm64) [com.AppDstrGuide]
+2021-03-29 09:17:45 +0000  /usr/bin/codesign exited with 0
+2021-03-29 09:17:45 +0000  Processing step: IDEDistributionZipODRItemStep
+2021-03-29 09:17:45 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2021-03-29 09:17:45 +0000  Processing step: IDEDistributionCreateIPAStep
+2021-03-29 09:17:45 +0000  Running /usr/bin/ditto '-V' '-c' '-k' '--norsrc' '/var/folders/wn/9n3xh4jx6j7fj2yp89k_z1740000gn/T/XcodeDistPipeline.~~~Ezz132/Root' '/var/folders/wn/9n3xh4jx6j7fj2yp89k_z1740000gn/T/XcodeDistPipeline.~~~Ezz132/Packages/AppDstrGuide.ipa'
+2021-03-29 09:17:45 +0000  >>> Copying /var/folders/wn/9n3xh4jx6j7fj2yp89k_z1740000gn/T/XcodeDistPipeline.~~~Ezz132/Root 
+2021-03-29 09:17:45 +0000  copying file ./BCSymbolMaps/25AE166A-CCFA-39B7-B4FC-DFBB1ACD849D.bcsymbolmap ... 
+2021-03-29 09:17:45 +0000  4978 bytes for ./BCSymbolMaps/25AE166A-CCFA-39B7-B4FC-DFBB1ACD849D.bcsymbolmap
+2021-03-29 09:17:45 +0000  copying file ./Payload/AppDstrGuide.app/_CodeSignature/CodeResources ... 
+2021-03-29 09:17:45 +0000  3895 bytes for ./Payload/AppDstrGuide.app/_CodeSignature/CodeResources
+copying file ./Payload/AppDstrGuide.app/AppDstrGuide ... 
+2021-03-29 09:17:45 +0000  125232 bytes for ./Payload/AppDstrGuide.app/AppDstrGuide
+2021-03-29 09:17:45 +0000  copying file ./Payload/AppDstrGuide.app/Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib ... 
+2021-03-29 09:17:45 +0000  936 bytes for ./Payload/AppDstrGuide.app/Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib
+copying file ./Payload/AppDstrGuide.app/Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib ... 
+1197 bytes for ./Payload/AppDstrGuide.app/Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib
+2021-03-29 09:17:45 +0000  copying file ./Payload/AppDstrGuide.app/Base.lproj/Main.storyboardc/Info.plist ... 
+258 bytes for ./Payload/AppDstrGuide.app/Base.lproj/Main.storyboardc/Info.plist
+copying file ./Payload/AppDstrGuide.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib ... 
+2021-03-29 09:17:45 +0000  1197 bytes for ./Payload/AppDstrGuide.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib
+copying file ./Payload/AppDstrGuide.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib ... 
+2021-03-29 09:17:45 +0000  896 bytes for ./Payload/AppDstrGuide.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib
+copying file ./Payload/AppDstrGuide.app/Base.lproj/LaunchScreen.storyboardc/Info.plist ... 
+258 bytes for ./Payload/AppDstrGuide.app/Base.lproj/LaunchScreen.storyboardc/Info.plist
+2021-03-29 09:17:45 +0000  copying file ./Payload/AppDstrGuide.app/embedded.mobileprovision ... 
+2021-03-29 09:17:45 +0000  9403 bytes for ./Payload/AppDstrGuide.app/embedded.mobileprovision
+copying file ./Payload/AppDstrGuide.app/Info.plist ... 
+2021-03-29 09:17:45 +0000  1415 bytes for ./Payload/AppDstrGuide.app/Info.plist
+copying file ./Payload/AppDstrGuide.app/PkgInfo ... 
+2021-03-29 09:17:45 +0000  8 bytes for ./Payload/AppDstrGuide.app/PkgInfo
+2021-03-29 09:17:45 +0000  /usr/bin/ditto exited with 0
+2021-03-29 09:17:45 +0000  Processing step: IDEDistributionAppStoreInformationStep
+2021-03-29 09:17:45 +0000  Skipping step: IDEDistributionAppStoreInformationStep because it said so
+2021-03-29 09:17:45 +0000  Processing step: IDEDistributionGenerateProcessedDistributionItems
+2021-03-29 09:17:45 +0000  Processing step: IDEDistributionCreateManifestStep
+2021-03-29 09:17:45 +0000  Skipping step: IDEDistributionCreateManifestStep because it said so
